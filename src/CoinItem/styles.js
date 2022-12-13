@@ -6,6 +6,7 @@ const styles = StyleSheet.create({
         color:'white',
         fontWeight: 'bold',
         fontSize: 16,
+        marginBottom: 3
       },
       text:{
         color:'white',
@@ -23,7 +24,7 @@ const styles = StyleSheet.create({
         marginRight:5,
         backgroundColor: '#585858',
         paddingHorizontal: 3,
-        borderRadius: 5,
+        borderRadius: 3,
       },
 });
 
